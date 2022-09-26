@@ -1,0 +1,1 @@
+# Python-Project-QR-Generator
